@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jeremiespl.github.io/csb-784hpy/static/css/main.492c7e00.chunk.css",
+    "main.js": "https://jeremiespl.github.io/csb-784hpy/static/js/main.6110bc67.chunk.js",
+    "main.js.map": "https://jeremiespl.github.io/csb-784hpy/static/js/main.6110bc67.chunk.js.map",
+    "runtime-main.js": "https://jeremiespl.github.io/csb-784hpy/static/js/runtime-main.d4cd6325.js",
+    "runtime-main.js.map": "https://jeremiespl.github.io/csb-784hpy/static/js/runtime-main.d4cd6325.js.map",
+    "static/js/2.3d6c078b.chunk.js": "https://jeremiespl.github.io/csb-784hpy/static/js/2.3d6c078b.chunk.js",
+    "static/js/2.3d6c078b.chunk.js.map": "https://jeremiespl.github.io/csb-784hpy/static/js/2.3d6c078b.chunk.js.map",
+    "index.html": "https://jeremiespl.github.io/csb-784hpy/index.html",
+    "static/css/main.492c7e00.chunk.css.map": "https://jeremiespl.github.io/csb-784hpy/static/css/main.492c7e00.chunk.css.map",
+    "static/js/2.3d6c078b.chunk.js.LICENSE.txt": "https://jeremiespl.github.io/csb-784hpy/static/js/2.3d6c078b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4cd6325.js",
+    "static/js/2.3d6c078b.chunk.js",
+    "static/css/main.492c7e00.chunk.css",
+    "static/js/main.6110bc67.chunk.js"
+  ]
+}
